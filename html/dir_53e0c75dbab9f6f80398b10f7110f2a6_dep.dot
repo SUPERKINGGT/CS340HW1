@@ -1,0 +1,13 @@
+digraph "C:/Users/ledio_000" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_d522931ffa1371640980b621734a4381 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Users" fontname="Helvetica", fontsize="10", URL="dir_d522931ffa1371640980b621734a4381.html"]
+  subgraph clusterdir_53e0c75dbab9f6f80398b10f7110f2a6 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_53e0c75dbab9f6f80398b10f7110f2a6.html"];
+    dir_53e0c75dbab9f6f80398b10f7110f2a6 [shape=plaintext label="ledio_000"];
+    dir_35ff93459461acc2ef55813b14dacede [shape=box label="Downloads" color="red" fillcolor="white" style="filled" URL="dir_35ff93459461acc2ef55813b14dacede.html"];
+  }
+  }
+}

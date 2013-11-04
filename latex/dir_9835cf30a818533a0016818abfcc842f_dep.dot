@@ -1,0 +1,9 @@
+digraph "C:/Users/ledio_000/Downloads/qt-project1" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_35ff93459461acc2ef55813b14dacede {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Downloads" fontname="Helvetica", fontsize="10", URL="dir_35ff93459461acc2ef55813b14dacede.html"]
+  dir_9835cf30a818533a0016818abfcc842f [shape=box, label="qt-project1", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9835cf30a818533a0016818abfcc842f.html"];
+  }
+}
